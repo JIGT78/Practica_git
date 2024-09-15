@@ -1,4 +1,4 @@
-#Git nuestro
+#Git nuestro, que guarda nuestros commits
 
 *Git* nuestro que estas en los repos
 
